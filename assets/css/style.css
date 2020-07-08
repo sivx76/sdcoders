@@ -334,6 +334,7 @@ dd, dt {
 }
 .header_aera .navbar-collapse .navbar-nav.navbar-right li a:hover, .header_aera .navbar-collapse .navbar-nav.navbar-right li a:focus {
   color: #f6b60b;
+
 }
 .header_aera .navbar-collapse .navbar-nav.navbar-right li .nav_searchFrom {
   width: 100px;
